@@ -21,3 +21,5 @@ print("The sum is:", addition())
 print("The difference is:", subtraction())
 print("The product is:", multiplication())
 print("The quotient when num1 is divided by num2 is:", division())
+
+#checking commit-msg hook
